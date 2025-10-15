@@ -1,0 +1,9 @@
+Bubbles easy map
+TTTTTTTTTTTTT
+TL..T.......T
+T.R.T.R..+.TT
+T.T~T.TTT.TTT
+T.T+TTTTT..xT
+T.TTTTTTTTT.T
+T~xT+..R...~T
+TTTTTTTTTTTTT
